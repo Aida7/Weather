@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast_MarkupCompile.cache
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast_MarkupCompile.lref
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.g.resources
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.Cache
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\Users\Админ\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
